@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../csv-reader"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "oop-guessing-game"
+	}
+}
